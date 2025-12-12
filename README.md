@@ -1,0 +1,14 @@
+# missi_phone_global_ext4-user 14 UKQ1.240624.001 OS2.0.5.0.UMQMIXM release-keys
+- manufacturer: xiaomi
+- platform: holi
+- codename: sunstone
+- flavor: missi_phone_global_ext4-user
+- release: 14
+- id: UKQ1.240624.001
+- incremental: OS2.0.5.0.UMQMIXM
+- tags: release-keys
+- fingerprint: Redmi/sunstone/sunstone:11/UKQ1.240624.001/OS2.0.5.0.UMQMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_global_ext4-user-14-UKQ1.240624.001-OS2.0.5.0.UMQMIXM-release-keys
+- repo: redmi_sunstone_dump

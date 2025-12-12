@@ -1,0 +1,1 @@
+mcfg_hw/generic/common/Strait/STANDALONE/LA/M17PGLMP/mcfg_hw.mbn

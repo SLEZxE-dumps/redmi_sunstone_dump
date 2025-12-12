@@ -1,0 +1,1 @@
+mcfg_hw/generic/common/Strait/STANDALONE/LA/IN/mcfg_hw.mbn
