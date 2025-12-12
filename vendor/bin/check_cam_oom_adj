@@ -1,0 +1,7 @@
+#! /vendor/bin/sh
+
+CurCameraPid=`pidof com.android.camera`
+PreAdj=`cat /proc/$CurCameraPid/oom_score_adj`
+echo "-800" > /proc/$CurCameraPid/oom_score_adj
+CurAdj=`cat /proc/$CurCameraPid/oom_score_adj`
+log -p i -t check_cam_oom_adj "camera pid: $CurCameraPid PreAdj: $PreAdj CurAdj: $CurAdj"
